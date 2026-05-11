@@ -53,7 +53,7 @@ Esta opción instala y configura todo automáticamente. Solo necesitas Docker.
 ### Paso 2 — Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/bike-mechanic-chatbot.git
+git clone https://github.com/Anakin-1214/bike-mechanic-chatbot.git
 cd bike-mechanic-chatbot
 ```
 
